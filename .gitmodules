@@ -1,0 +1,3 @@
+[submodule "microservices/comments-service"]
+	path = microservices/comments-service
+	url = https://github.com/efratec/ems-comments-service.git
