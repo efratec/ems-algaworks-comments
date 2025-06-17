@@ -1,6 +1,3 @@
 [submodule "microservices/comments-service"]
 	path = microservices/comments-service
 	url = https://github.com/efratec/ems-comments-service.git
-[submodule "microservices/monotoration-service"]
-	path = microservices/monotoration-service
-	url = https://github.com/efratec/ems-monitoration-service.git
